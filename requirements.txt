@@ -1,5 +1,6 @@
 
-jupyter notebook
+jupyter 
+notebook
 transformers
 torch
 gradio

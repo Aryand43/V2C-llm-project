@@ -8,7 +8,8 @@ os.makedirs('models', exist_ok=True)
 print('Folders created: src, data, notebooks, models.')
 
 requirements_content = """
-jupyter notebook
+jupyter 
+notebook
 transformers
 torch
 gradio
