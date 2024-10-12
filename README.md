@@ -20,7 +20,7 @@ The current implementation focuses on the video captioning component, with plans
 
 ## Setup and Installation
 1. Clone the repository:
-git clone https://github.com/Aryand43/multimodal-llm-project.git
+git clone https://github.com/Aryand43/V2C-llm-project.git
 
 2. Install required packages:
 pip install -r requirements.txt
